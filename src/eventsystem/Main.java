@@ -1,7 +1,7 @@
-package com.example.eventsystem;
+package eventsystem;
 
-import com.example.eventsystem.decorator.*;
-import com.example.eventsystem.observer.*;
+import eventsystem.decorator.*;
+import eventsystem.observer.*;
 
 public class Main {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package com.example.eventsystem.decorator;
+package eventsystem.decorator;
 public abstract class NotificationDecorator implements Notification {
     protected final Notification inner;
     public NotificationDecorator(Notification i){ inner = i; }

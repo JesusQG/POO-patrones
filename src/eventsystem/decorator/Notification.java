@@ -1,4 +1,4 @@
-package com.example.eventsystem.decorator;
+package eventsystem.decorator;
 public interface Notification {
     String getMessage();
 }

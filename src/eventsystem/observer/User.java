@@ -1,6 +1,6 @@
-package com.example.eventsystem.observer;
+package eventsystem.observer;
 
-import com.example.eventsystem.decorator.Notification;
+import eventsystem.decorator.Notification;
 
 public class User implements Observer {
     private final String username;

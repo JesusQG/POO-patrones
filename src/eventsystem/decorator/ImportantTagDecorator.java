@@ -1,4 +1,4 @@
-package com.example.eventsystem.decorator;
+package eventsystem.decorator;
 
 public class ImportantTagDecorator extends NotificationDecorator {
     public ImportantTagDecorator(Notification i){ super(i); }

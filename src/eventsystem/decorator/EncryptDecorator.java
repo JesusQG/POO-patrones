@@ -1,4 +1,4 @@
-package com.example.eventsystem.decorator;
+package eventsystem.decorator;
 
 import java.util.Base64;
 

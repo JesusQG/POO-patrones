@@ -1,6 +1,6 @@
-package com.example.eventsystem.observer;
+package eventsystem.observer;
 
-import com.example.eventsystem.decorator.NotificationBuilder;
+import eventsystem.decorator.NotificationBuilder;
 import java.util.*;
 
 public class Event implements Subject, Cloneable {

@@ -1,5 +1,5 @@
-package com.example.eventsystem.observer;
-import com.example.eventsystem.decorator.NotificationBuilder;
+package eventsystem.observer;
+import eventsystem.decorator.NotificationBuilder;
 public interface Subject {
     void addObserver(Observer o);
     void removeObserver(Observer o);

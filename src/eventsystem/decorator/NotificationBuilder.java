@@ -1,4 +1,4 @@
-package com.example.eventsystem.decorator;
+package eventsystem.decorator;
 public class NotificationBuilder {
     private final String base;
     public NotificationBuilder(String b){ base = b; }
